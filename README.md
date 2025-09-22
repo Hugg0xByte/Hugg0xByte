@@ -7,6 +7,21 @@
 
 ##
 
+##
+
+### 🌍 O que me move
+- Criar **soluções confiáveis, escaláveis e de alta performance**  
+- Unir a experiência sólida do **back-end** com o potencial disruptivo da **Web3**  
+- Aprender, ensinar e crescer junto com a comunidade  
+- Contribuir para a **transformação digital e descentralizada**  
+
+##
+
+# 📫 Contato  
+<div> 
+  <a href="https://www.linkedin.com/in/huggo-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
 ### ⚙️ Stack & Skills
 
 <div style="display: inline_block"><br>
@@ -32,19 +47,4 @@
 
   <!-- Outros -->
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
-
-##
-
-### 🌍 O que me move
-- Criar **soluções confiáveis, escaláveis e de alta performance**  
-- Unir a experiência sólida do **back-end** com o potencial disruptivo da **Web3**  
-- Aprender, ensinar e crescer junto com a comunidade  
-- Contribuir para a **transformação digital e descentralizada**  
-
-##
-
-# 📫 Contato  
-<div> 
-  <a href="https://www.linkedin.com/in/huggo-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
