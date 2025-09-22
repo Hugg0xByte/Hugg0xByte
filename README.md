@@ -7,13 +7,6 @@
 
 ##
 
-##
-
-### 🌍 O que me move
-- Criar **soluções confiáveis, escaláveis e de alta performance**  
-- Unir a experiência sólida do **back-end** com o potencial disruptivo da **Web3**  
-- Aprender, ensinar e crescer junto com a comunidade  
-- Contribuir para a **transformação digital e descentralizada**  
 
 ##
 
@@ -33,17 +26,6 @@
   <!-- Blockchain -->
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
   <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/374088/solidity.svg">
-
-  <!-- Cloud & DevOps -->
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  
-  <!-- Databases -->
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
 
   <!-- Outros -->
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
